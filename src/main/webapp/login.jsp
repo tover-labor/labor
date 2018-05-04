@@ -3,7 +3,7 @@
 <html>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=gb2312">
-<title>：：劳动力市场：：</title>
+<title>劳动力市场</title>
 <link href="<%=request.getContextPath()%>/styles/css/common.css" rel="stylesheet" type="text/css">
 </head>
 <script>
