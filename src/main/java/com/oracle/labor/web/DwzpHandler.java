@@ -33,12 +33,12 @@ public class DwzpHandler {
         String result=IndustryOperation.getOption(val);
         return result;
     }
-    @RequestMapping(value = "/city",produces = "text/html;charset=UTF-8")
-    @ResponseBody
-    public String City(String val){
-        String result=RegioncodeOperation.getOption();
-        return result;
-    }
+//    @RequestMapping(value = "/city",produces = "text/html;charset=UTF-8")
+//    @ResponseBody
+//    public String City(String val){
+//        String result=RegioncodeOperation.getOption();
+//        return result;
+//    }
 
 
 }
