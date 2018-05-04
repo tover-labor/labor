@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Maven: springc:error:unknown">
+    <CLASSES />
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/springc/error/unknown/error-unknown-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/springc/error/unknown/error-unknown-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
